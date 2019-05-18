@@ -2,7 +2,7 @@
 
 
 ## Project Description:
-This is a web application for internal use of the organization. By using this app user can see how many  Policy Accounts are there in the Life insurance, What are the type of Accounts, User can create delete the Account etc. We are using HTML,CSS,Javascript,Node.Js,Express and Bootstrap for developing this application.
+This is a web application for internal use of the organization. By using this app user can see how many policy accounts are there in the Life insurance, What are the type of Accounts, User can create delete the Account etc. We are using HTML,CSS,Javascript,Node.Js,Express and Bootstrap for developing this application.
 
 
 
@@ -36,7 +36,7 @@ Dr.Denise Case<br>
 <hr>
 
 ### Project Objectives:
-To develop a site for managing the insurance policies of customer
+To develop a site for managing the insurance policies of customers.
 
 <hr>
 
