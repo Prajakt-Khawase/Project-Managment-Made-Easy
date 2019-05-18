@@ -33,12 +33,12 @@ Dr.Denise Case<br>
 
 ### Project Head: Prajakt Uttamrao Khawase
 
-
+<hr>
 
 ### Project Objectives:
 To develop a site for managing the insurance policies of customer
 
-
+<hr>
 ### Approach to follow: Agile Methodology.
 
 
