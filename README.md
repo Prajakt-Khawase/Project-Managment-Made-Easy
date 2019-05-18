@@ -50,7 +50,7 @@ To develop a site for managing the insurance policies of customers.
   <tr>
     <th>Role</th>
     <th>Name</th>
-    <th>Organization/Position</th>
+    <th>Organizational Position</th>
     <th>Contact Information</th>
   </tr>
   <tr>
