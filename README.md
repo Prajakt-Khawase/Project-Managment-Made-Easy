@@ -88,3 +88,12 @@ To develop a site for managing the insurance policies of customer
     <td>Project Head/ Team Lead</td>
     <td>+91 9021341052</td>
   </tr>
+ <tr>
+    <td>Rahul Mallampati</td>
+    <td></td>
+    <td>Internal</td>
+    <td>Team Member</td>
+    <td>+01 661254367</td>
+  </tr>
+</table>
+
