@@ -39,6 +39,8 @@ Dr.Denise Case<br>
 To develop a site for managing the insurance policies of customer
 
 <hr>
-### Approach to follow: Agile Methodology.
+
+
+ ### Approach to follow: Agile Methodology.
 
 
