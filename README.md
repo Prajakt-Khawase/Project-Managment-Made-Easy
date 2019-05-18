@@ -68,3 +68,23 @@ To develop a site for managing the insurance policies of customer
   </tr>
 </table>
 <br>
+
+
+## Stakeholder Register:
+
+
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Position</th>
+    <th>Internal/External</th>
+    <th>Project Role</th>
+    <th>Contact Information</th>
+  </tr>
+  <tr>
+    <td>Prajakt Uttamrao Khawase</td>
+    <td></td>
+    <td>Internal</td>
+    <td>Project Head/ Team Lead</td>
+    <td>4042087608</td>
+  </tr>
