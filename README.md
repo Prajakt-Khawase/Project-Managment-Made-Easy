@@ -26,3 +26,5 @@ Dr.Denise Case<br>
 ## Project Charter
 
 ### Project Title : Life Insurance Policy
+
+### Project Start Date: 05/16/19 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Expected date of Finish: 05/31/19
