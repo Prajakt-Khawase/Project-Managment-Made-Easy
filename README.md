@@ -57,3 +57,14 @@ To develop a site for managing the insurance policies of customer
     <td>Project Head</td>
     <td>Prajakt Uttamrao Khawase</td>
     <td></td>
+   <td>+91 9021341052</td>
+  </tr>
+  <tr>
+    <td>Team Leader</td>
+    <td>Rahul Mallampati</td>
+    <td></td>
+    <td>661254367</td>
+  </tr>
+  </tr>
+</table>
+<br>
