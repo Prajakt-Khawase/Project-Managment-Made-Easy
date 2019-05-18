@@ -6,7 +6,7 @@ This is a web application for internal use of the organization. By using this ap
 
 
 
- ## Team name: Policy Makers
+## Team name: Policy Makers
 
 
 
