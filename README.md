@@ -75,7 +75,7 @@ To develop a site for managing the insurance policies of customers.
 
 <table>
   <tr>
-    <th>Name</th>
+    <th>Stakeholder Name</th>
     <th>Position</th>
     <th>Internal/External</th>
     <th>Project Role</th>
