@@ -38,3 +38,7 @@ Dr.Denise Case<br>
 ### Project Objectives:
 To develop a site for managing the insurance policies of customer
 
+
+### Approach to follow: Agile Methodology.
+
+
