@@ -63,7 +63,7 @@ To develop a site for managing the insurance policies of customer
     <td>Team Leader</td>
     <td>Rahul Mallampati</td>
     <td></td>
-    <td>661254367</td>
+    <td>+01 661254367</td>
   </tr>
   </tr>
 </table>
@@ -86,5 +86,5 @@ To develop a site for managing the insurance policies of customer
     <td></td>
     <td>Internal</td>
     <td>Project Head/ Team Lead</td>
-    <td>4042087608</td>
+    <td>+91 9021341052</td>
   </tr>
