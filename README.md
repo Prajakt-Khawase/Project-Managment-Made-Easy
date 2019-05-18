@@ -34,3 +34,7 @@ Dr.Denise Case<br>
 ### Project Head: Prajakt Uttamrao Khawase
 
 
+
+### Project Objectives:
+To develop a site for managing the insurance policies of customer
+
