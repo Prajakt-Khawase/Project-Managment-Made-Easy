@@ -44,3 +44,16 @@ To develop a site for managing the insurance policies of customer
  ### Approach to follow: Agile Methodology.
 
 
+### Roles and Responsibilities:
+
+<table>
+  <tr>
+    <th>Role</th>
+    <th>Name</th>
+    <th>Organization/Position</th>
+    <th>Contact Information</th>
+  </tr>
+  <tr>
+    <td>Project Head</td>
+    <td>Prajakt Uttamrao Khawase</td>
+    <td></td>
