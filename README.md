@@ -13,4 +13,8 @@ This is a web application for internal use of the organization. By using this ap
 
 
 ## Client:
-Dr.Denise Case(mentor) <br>
+Dr.Denise Case<br>
+
+## Team Logo:
+
+![logo](life-insurance-cost-1024x686-1024x585.jpg)
