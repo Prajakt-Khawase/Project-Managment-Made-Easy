@@ -97,7 +97,7 @@ To develop a site for managing the insurance policies of customers.
   </tr>
 </table>
 
-## Project Repository:
+## Published Site:
 
 
 https://prajakt-khawase.github.io/PM-Online-LifeInsurance-Policy/
