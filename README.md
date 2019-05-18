@@ -65,7 +65,7 @@ To develop a site for managing the insurance policies of customers.
     <td></td>
     <td>+01 661254367</td>
   </tr>
-  </tr>
+
 </table>
 <br>
 
