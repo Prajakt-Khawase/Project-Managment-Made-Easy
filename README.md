@@ -41,7 +41,7 @@ To develop a site for managing the insurance policies of customers.
 <hr>
 
 
- ### Approach to follow: Agile Methodology.
+### Approach to follow: Agile Methodology.
 
 
 ### Roles and Responsibilities:
