@@ -39,6 +39,8 @@ Dr.Denise Case<br>
 * Complete Procurement management plan , Stakeholder management plan by Jun 5 2019 Milestone 4
 * Give the presentation about the project which coveres the components used in project , how to use the application for the effective use by Jun 6 2019  Milestone 5
 
+<hr>
+
 ### Project Head: Prajakt Uttamrao Khawase
 
 <hr>
@@ -48,6 +50,7 @@ To develop a site for managing the insurance policies of customers.
 
 <hr>
 
+### Budget Information : We are developing this application for students by students. All the hardware for this appliacation has been provided by the university thus the cost of application is zero.
 
 ### Approach to follow: Agile Methodology.
 
