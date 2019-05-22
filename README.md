@@ -27,9 +27,10 @@ Dr.Denise Case<br>
 
 ### Project Title : Life Insurance Policy
 
+
 ### Project Start Date: 05/16/19 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Expected date of Finish: 06/06/19
 
-<br>
+<hr>
 
 ### Kye Schedule Milestones:
 * Graph the Idea of project , decide the appropriate project Name , description etc. by May 22 2019 milestone 1 
