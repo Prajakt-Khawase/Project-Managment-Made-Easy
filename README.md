@@ -78,13 +78,13 @@ We are developing this application for students by students. All the hardware fo
     <th>Contact Information</th>
   </tr>
   <tr>
-    <td>Project Head</td>
+    <td>Project Head / Team Leader</td>
     <td>Prajakt Uttamrao Khawase</td>
     <td>Developer</td>
    <td>+91 9021341052</td>
   </tr>
   <tr>
-    <td>Team Leader</td>
+    <td>Team member</td>
     <td>Rahul Mallampati</td>
     <td>Developer</td>
     <td>+01 661254367</td>
