@@ -27,14 +27,15 @@ Dr.Denise Case<br>
 
 ### Project Title : Life Insurance Policy
 
-### Project Start Date: 05/16/19 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Expected date of Finish: 05/31/19
+### Project Start Date: 05/16/19 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Expected date of Finish: 06/06/19
 
 
 ### Kye Schedule Milestones:
 * Graph the Idea of project , decide the appropriate project Name , description etc. by May 22 2019 milestone 1 
 * Complete Project Integration Management , Project Scope Management , Schedule management plan , Cost management plan , by May 24 2019 Milestone 2
 * Complete Project Human resources management plan , Communication management plan , Risk management plan by May 31 2019 Milestone 3
-* 
+* Complete Procurement management plan , Stakeholder management plan by Jun 5 2019 Milestone 4
+* Give the presentation about the project which coveres the components used in project , how to use the application for the effective use by Jun 6 2019  Milestone 5
 
 ### Project Head: Prajakt Uttamrao Khawase
 
