@@ -51,7 +51,7 @@ We have divided all the task amongst all the team members. To co-ordinate amongs
 
 
 ### Project Objectives:
-To develop a site for managing the insurance policies of customers.
+To develop a web application to help students to understand the critical concepts of Project Managment in simple and effective way.
 
 <hr>
 
