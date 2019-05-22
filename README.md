@@ -4,7 +4,10 @@
 ## Project Description:
 This is a web application for internal use of the organization. By using this app user can see how many policy accounts are there in the Life insurance, What are the type of Accounts, User can create delete the Account etc. We are using HTML,CSS,Javascript,Node.Js,Express and Bootstrap for developing this application.
 
+<hr>
 
+### Main Project Success Criteria: 
+The software must meet all written specifications, be thoroughly tested, and be completed on time.
 
 ## Team name: 
 Policy Makers
@@ -41,18 +44,24 @@ Dr.Denise Case<br>
 
 <hr>
 
-### Project Head: Prajakt Uttamrao Khawase
-
-<hr>
 
 ### Project Objectives:
 To develop a site for managing the insurance policies of customers.
 
 <hr>
 
-### Budget Information : We are developing this application for students by students. All the hardware for this appliacation has been provided by the university thus the cost of application is zero.
+### Budget Information :
+We are developing this application for students by students. All the hardware for this appliacation has been provided by the university thus the cost of application is zero.
 
-### Approach to follow: Agile Methodology.
+<hr>
+
+### Project Head: Prajakt Uttamrao Khawase
+
+<hr>
+### Approach to follow: 
+
+* Within time mentioned in Project Milestone we will try to complete all the work
+* we are managing the project using Agile Methodology.
 
 
 ### Roles and Responsibilities:
