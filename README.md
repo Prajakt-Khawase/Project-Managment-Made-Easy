@@ -31,10 +31,10 @@ Dr.Denise Case<br>
 
 
 ### Kye Schedule Milestones:
-1. Graph the Idea of project , decide the appropriate project Name , description etc. by May 22 2019 milestone 1 
-1. Complete Project Integration Management , Project Scope Management , Schedule management plan , Cost management plan , by May 24 2019 Milestone 2
-1. Complete Project Human resources management plan , Communication management plan , Risk management plan by May 31 2019 Milestone 3
-1. 
+* Graph the Idea of project , decide the appropriate project Name , description etc. by May 22 2019 milestone 1 
+* Complete Project Integration Management , Project Scope Management , Schedule management plan , Cost management plan , by May 24 2019 Milestone 2
+* Complete Project Human resources management plan , Communication management plan , Risk management plan by May 31 2019 Milestone 3
+* 
 
 ### Project Head: Prajakt Uttamrao Khawase
 
