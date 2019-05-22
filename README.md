@@ -2,8 +2,7 @@
 
 
 ## Project Description:
-This is a web application for internal use of the organization. By using this app user can see how many policy accounts are there in the Life insurance, What are the type of Accounts, User can create delete the Account etc. We are using HTML,CSS,Javascript,Node.Js,Express and Bootstrap for developing this application.
-
+Project Description: This is a web application to make students understand the critical concepts of Project Managment in simple and effective way. This application covers critical areas of Project Managment such as significance of triple constraints in the project , mapping knowledge areas vs the Process Groups and techniques to remember the mappings between them , Three Sphere Model of System Managment etc. This is a client side application which uses HTML,CSS to develop web pages.
 <hr>
 
 ### Main Project Success Criteria: 
