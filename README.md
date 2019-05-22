@@ -22,7 +22,7 @@ Dr.Denise Case<br>
 
 ## Team Logo:
 
-![logo](life-insurance-cost-1024x686-1024x585.jpg)
+![logo](Project_PM.PNG)
 
 
 ## Project Charter
