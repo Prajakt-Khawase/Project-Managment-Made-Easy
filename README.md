@@ -58,6 +58,7 @@ We are developing this application for students by students. All the hardware fo
 ### Project Head: Prajakt Uttamrao Khawase
 
 <hr>
+
 ### Approach to follow: 
 
 * Within time mentioned in Project Milestone we will try to complete all the work
