@@ -1,8 +1,8 @@
-# PM-Online-LifeInsurance-Policy
+# Project Managment Made Easy!
 
 
 ## Project Description:
-Project Description: This is a web application to make students understand the critical concepts of Project Managment in simple and effective way. This application covers critical areas of Project Managment such as significance of triple constraints in the project , mapping knowledge areas vs the Process Groups and techniques to remember the mappings between them , Three Sphere Model of System Managment etc. This is a client side application which uses HTML,CSS to develop web pages.
+This is a web application to make students understand the critical concepts of Project Managment in simple and effective way. This application covers critical areas of Project Managment such as significance of triple constraints in the project , mapping knowledge areas vs the Process Groups and techniques to remember the mappings between them , Three Sphere Model of System Managment etc. This is a client side application which uses HTML,CSS to develop web pages.
 <hr>
 
 ### Main Project Success Criteria: 
