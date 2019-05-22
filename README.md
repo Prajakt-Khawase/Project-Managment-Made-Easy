@@ -24,6 +24,8 @@ Dr.Denise Case<br>
 
 ![logo](Project_PM.PNG)
 
+##### ©WayHome.com
+
 ### Plan to work in Group
 
 We have divided all the task amongst all the team members. To co-ordinate amongst the team while working we have decided that we will use Skype of business and outlook softwares provided by the university. We planned that we will take team meeting at Colden Hall or B.D. Owens Library - Northwest Missouri State University.
