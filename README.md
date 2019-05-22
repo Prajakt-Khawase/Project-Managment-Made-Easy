@@ -93,6 +93,32 @@ We are developing this application for students by students. All the hardware fo
 </table>
 <br>
 
+### Stories by Role
+
+1. Prajakt: Project Manager
+
+* Look after maintaining client expectations
+* Work towards maintaining the moral and motivation of the team up.
+* Conduct and lead the meetings Assign tasks to individuals and track project progress.
+* Update Clients regarding the project status.
+
+Prajakt: Team Leader and Content Developer
+
+* Decide the technologies use and layout of the application.
+* Help the team members in technical issues while developing application.
+* Collect and organize and maintain the required content to meet the client requirement.
+* Take summery of work done by each team member on daily basis.
+
+
+
+1. Rahul: Developer
+
+* Give essential inputs and feedbacks in team meetings towards development stratergy planning.
+* Create a web application front end by using best design patterns.
+  Use technologies like CSS to make the view more luckrative.
+* Ensure design consistency with the client’s development standards and guidelines.
+* Maintain, test the web application and participate in the meeting with client.
+
 
 ## Stakeholder Register:
 
