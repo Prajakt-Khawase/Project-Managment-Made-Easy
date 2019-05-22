@@ -120,4 +120,4 @@ We are developing this application for students by students. All the hardware fo
 ## Published Site:
 
 
-https://prajakt-khawase.github.io/PM-Online-LifeInsurance-Policy/
+https://prajakt-khawase.github.io/Project-Managment-Made-Easy/
