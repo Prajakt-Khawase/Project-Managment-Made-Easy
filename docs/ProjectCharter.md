@@ -60,19 +60,19 @@ We are developing this application for students by students. All the hardware fo
     <td>+01 661254367</td>
   </tr>
   
-    <tr>
+   <tr>
     <td>Team Member</td>
     <td>Prajakt Uttamrao Khawase</td>
     <td>Web-Developer</td>
    <td>+91 9021341052</td>
-  </tr>
+   </tr>
   
-    <tr>
+   <tr>
     <td>Team Member</td>
     <td>Rahul Mallampati</td>
     <td>UI-Developer</td>
    <td>+01 661254367</td>
-  </tr>
+   </tr>
 
 </table>
 <br>
