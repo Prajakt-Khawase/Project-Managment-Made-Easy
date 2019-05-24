@@ -1,32 +1,42 @@
 
 ## Project Charter
 
-### Project Title : Life Insurance Policy
-
-### Project Start Date: 05/16/19 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Expected date of Finish: 05/31/19
+### Project Title : Project Managment Made Easy!
 
 
+### Project Start Date: 05/16/19 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Expected date of Finish: 06/06/19
+
+<hr>
+
+### Kye Schedule Milestones:
+* Graph the Idea of project , decide the appropriate project Name , description etc. by May 22 2019 milestone 1 
+* Complete Project Integration Management , Project Scope Management , Schedule management plan , Cost management plan , by May 24 2019 Milestone 2
+* Complete Project Human resources management plan , Communication management plan , Risk management plan by May 31 2019 Milestone 3
+* Complete Procurement management plan , Stakeholder management plan by Jun 5 2019 Milestone 4
+* Give the presentation about the project which coveres the components used in project , how to use the application for the effective use by Jun 6 2019  Milestone 5
+
+<hr>
+
+
+### Project Objectives:
+To develop a web application to help students to understand the critical concepts of Project Managment in simple and effective way.
+
+<hr>
+
+### Budget Information :
+We are developing this application for students by students. All the hardware for this appliacation has been provided by the university thus the cost of application is zero.
+
+<hr>
 
 ### Project Head: Prajakt Uttamrao Khawase
 
 <hr>
 
-### Project Objectives:
-To develop a site for managing the insurance policies of customers.
+### Approach to follow: 
 
-<hr>
+* Within time mentioned in Project Milestone we will try to complete all the work
+* we are managing the project using Agile Methodology.
 
-
-### Approach to follow: Agile Methodology.
-
-
-### Stories by Role
-1. Prajakt : As I am a team leader in the group I will design the layout of the app and we have decided that there would be Policy holders
-   Information of Policy holders account, Policy taken by policy cusomer and type of policy. As per our mutual decision I would work on 
-   designing Policy holders, Information of Policy holders account.
-   
-2. Rahul : As I am a developer I will design As per our mutual decision I would work on Policy taken by policy cusomer and type of policy
-   
 
 ### Roles and Responsibilities:
 
@@ -34,49 +44,21 @@ To develop a site for managing the insurance policies of customers.
   <tr>
     <th>Role</th>
     <th>Name</th>
-    <th>Organization/Position</th>
+    <th>Organizational Position</th>
     <th>Contact Information</th>
   </tr>
   <tr>
-    <td>Project Head</td>
+    <td>Project Head / Team Leader</td>
     <td>Prajakt Uttamrao Khawase</td>
-    <td></td>
+    <td>Developer</td>
    <td>+91 9021341052</td>
   </tr>
   <tr>
-    <td>Team Leader</td>
+    <td>Team member</td>
     <td>Rahul Mallampati</td>
-    <td></td>
+    <td>Developer</td>
     <td>+01 661254367</td>
   </tr>
 
 </table>
 <br>
-
-
-## Stakeholder Register:
-
-
-<table>
-  <tr>
-    <th>Name</th>
-    <th>Position</th>
-    <th>Internal/External</th>
-    <th>Project Role</th>
-    <th>Contact Information</th>
-  </tr>
-  <tr>
-    <td>Prajakt Uttamrao Khawase</td>
-    <td>Developer</td>
-    <td>Internal</td>
-    <td>Project Head/Team Lead</td>
-    <td>+91 9021341052</td>
-  </tr>
- <tr>
-    <td>Rahul Mallampati</td>
-    <td>Developer</td>
-    <td>Internal</td>
-    <td>Team Member</td>
-    <td>+01 661254367</td>
-  </tr>
-</table>
