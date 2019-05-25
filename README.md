@@ -179,7 +179,7 @@ We are developing this application for students by students. All the hardware fo
 
 ## Link to Work Breakdown structure (WBS):
 
-
+[Work Breakdown structure (WBS)](https://github.com/Prajakt-Khawase/Project-Managment-Made-Easy/blob/master/docs/Project%20Scope%20Managment/WBSprojectmanagmentmadeeasy.PNG)
 
 ## Link to Gantt chart:
 
