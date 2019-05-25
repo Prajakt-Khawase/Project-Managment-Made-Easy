@@ -175,7 +175,7 @@ https://github.com/Prajakt-Khawase/Project-Managment-Made-Easy/blob/master/docs/
 
 ## Link to Scope Statement:
 
-https://github.com/Prajakt-Khawase/Project-Managment-Made-Easy/blob/master/docs/Project%20Scope%20Managment/scopestatement.md
+[Scope Statement](https://github.com/Prajakt-Khawase/Project-Managment-Made-Easy/blob/master/docs/Project%20Scope%20Managment/scopestatement.md)
 
 ## Link to Work Breakdown structure (WBS):
 
