@@ -28,7 +28,6 @@ This is a web application to help students to understand the critical concepts o
 <hr>
 
 ### Sponsor's Name:
-
 <table style="width:100%;border: 1px solid black;">
   <tr>
     <th>Name of the StakeHolder</th>
@@ -48,7 +47,7 @@ This is a web application to help students to understand the critical concepts o
 	  <td> Colden Hall 2280 ,  Maryville,Missouri</td> 
 </tr>
 
-  <hr>
+<hr>
 
 ### Names of The Project Manager and Key Team Members
 
