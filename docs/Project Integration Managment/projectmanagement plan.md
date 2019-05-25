@@ -47,7 +47,7 @@ This is a web application to help students to understand the critical concepts o
 	  <td> Colden Hall 2280 ,  Maryville,Missouri</td> 
 </tr>
 
-<hr>
+
 
 ### Names of The Project Manager and Key Team Members
 
