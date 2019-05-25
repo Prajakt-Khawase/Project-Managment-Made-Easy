@@ -5,3 +5,4 @@
  Attributes|Scope Statement
  ---|---|
 **Project Title:** | Project-Managment-Made-Easy
+**Date:** | 5/24/2019
