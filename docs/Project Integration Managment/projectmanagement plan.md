@@ -9,4 +9,16 @@ Managerial Process Plan | Work plan; Start-up plan;  Schedule; Risk management p
 Technical Process Plan |Process model;Tools and techniques used;  Methods; Infrastructure plan; Product acceptace plan.
 Supporting Process Plan |Cofiguration management plan;  Documentation plan; Verification and validation plan; Quality assurance plan; Reviews and audits; Problem resolution plan; Subcontractor management plan; Process improvement plan.
 
-##### Referance :- Page 155 How to develop a software project management plan (SPMP).
+##### Referance :- Page 155 Schwalbe, Kathy (2016). Information Technology Project Management 8e, How to develop a software project management plan (SPMP).
+
+## Detailed Project Managment Plan
+
+## OVERVIEW:
+
+### The project name:
+
+Project-Managment-Made-Easy
+
+
+
+
