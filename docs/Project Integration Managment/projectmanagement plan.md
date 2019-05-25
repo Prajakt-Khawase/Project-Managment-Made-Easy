@@ -53,9 +53,10 @@ This is a web application to help students to understand the critical concepts o
   ### Names of The Project Manager and Key Team Members
 
   ##### Project Manager: Prajakt Uttamrao Khawase
+
   ######Team Members
-  1. Prajakt Uttamrao Khawase<br>
-  2. Rahul Mallampati<br>
+   1. Prajakt Uttamrao Khawase<br>
+   2. Rahul Mallampati<br>
 
 
 
