@@ -159,6 +159,9 @@ We are developing this application for students by students. All the hardware fo
 https://github.com/Prajakt-Khawase/Project-Managment-Made-Easy/blob/master/docs/Project%20Integration%20Managment/ProjectCharter.md
 
 
+## Link to Project Management Plan:
+
+https://github.com/Prajakt-Khawase/Project-Managment-Made-Easy/blob/master/docs/Project%20Integration%20Managment/projectmanagement%20plan.md
 
 
 ## Link to Stakeholder Registry:
