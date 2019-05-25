@@ -1,6 +1,6 @@
 # Project Scope Management:
 
-## 2.1 Requirements Specification:
+## Requirements Specification:
 
 ID|Requirement|Priority|Type|
 ---|---|---|---|
