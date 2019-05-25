@@ -153,6 +153,12 @@ We are developing this application for students by students. All the hardware fo
   </tr>
 </table>
 
+
+## Link for project charter
+
+
+https://github.com/Prajakt-Khawase/Project-Managment-Made-Easy/blob/master/docs/ProjectCharter.md
+
 ## Published Site:
 
 
