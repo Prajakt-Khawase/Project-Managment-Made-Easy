@@ -15,7 +15,7 @@
 	Applied Computer Science</td>
 	 <td>External</td> 
 	 <td>Key Stakeholder. Provides input and guidance to proceed forward</td>
-	  <td>Maryville,Missouri</td> 
+	  <td> Colden Hall 2280 ,  Maryville,Missouri</td> 
   </tr>
 
   <tr>
