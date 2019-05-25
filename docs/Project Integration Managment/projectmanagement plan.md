@@ -54,7 +54,7 @@ This is a web application to help students to understand the critical concepts o
 
 ##### Project Manager: Prajakt Uttamrao Khawase
 
-######Team Members
+###### Team Members
 1. Prajakt Uttamrao Khawase<br>
 2. Rahul Mallampati<br>
 
