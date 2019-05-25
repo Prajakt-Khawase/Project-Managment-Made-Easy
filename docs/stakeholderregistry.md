@@ -17,15 +17,7 @@
 	 <td>Key Stakeholder. Provides input and guidance to proceed forward</td>
 	  <td>Maryville,Missouri</td> 
   </tr>
-  <tr>
-  <td>Prajakt Uttamrao Khawase</td>
-    <td>Developer</td> 
-    <td>
-	Applied Computer Science</td>	 
-	 <td>Internal</td> 
-	 <td>Web Developer</td>
-	  <td>Khawse.prajakt@gmail.com</td> 
-  </tr>
+
   <tr>
     <td>Prajakt Khawase</td>
     <td>Project Manager</td> 
@@ -35,6 +27,7 @@
 	 <td>Manage the project. Assign tasks. Do code review and scrum meetings</td>
 	  <td>khawse.prajakt@gmail.com</td> 
   </tr>
+
   <tr>
     <td>Rahul Mallampati</td>
     <td>Team Member</td> 
@@ -44,6 +37,17 @@
 	 <td>Develop,test and validate code</td>
 	  <td>rahulmallampati825@gmail.com</td> 
   </tr>
+  <tr>
+  <td>Prajakt Uttamrao Khawase</td>
+    <td>Developer</td> 
+    <td>
+	Applied Computer Science</td>	 
+	 <td>Internal</td> 
+	 <td>Web Developer</td>
+	  <td>Khawse.prajakt@gmail.com</td> 
+  </tr>
+
+
 <tr>
     <td>Rahul Mallampati</td>
     <td>UI developer</td> 
