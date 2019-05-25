@@ -156,7 +156,7 @@ We are developing this application for students by students. All the hardware fo
     <td>
 	Applied Computer Science</td>
 	 <td>Internal</td> 
-	 <td>Develop,test and validate code</td>
+	 <td>Look after the UI related Issues</td>
 	  <td>rahulmallampati825@gmail.com</td> 
   </tr>
 </table>
