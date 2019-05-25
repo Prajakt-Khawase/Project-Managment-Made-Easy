@@ -2,5 +2,5 @@
 
 ## Scope Statement:
 
-|Scope Statement
----|---|
+ Attributes|Scope Statement
+ ---|---|
