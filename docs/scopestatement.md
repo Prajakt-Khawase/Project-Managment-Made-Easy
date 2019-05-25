@@ -12,3 +12,7 @@
 **Project Boundries:**|<p>The website is static it does not have any login functionality.
 **Project Deliverables:**|<p>Business case, stakeholder register, Project charter, Scope statement, WBS, Schedule, Cost baseline, Status reports, Gantt charts, Final project report, Lessons-learned report, Final working site.
 **Project Future Scope:**| <p>We have planned at once the fully functional web-site is developed we will add some additional functionalities like question banks , quizes , and iteractive group discussion sessions</p>
+
+#### Referance :-> 
+1. http://templatelab.com/project-scope/
+2. https://learn.g2.com/project-scope-statement
