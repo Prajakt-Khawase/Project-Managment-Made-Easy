@@ -46,7 +46,7 @@ This is a web application to help students to understand the critical concepts o
 	 <td>Sponsor, Key Stakeholder. Provides input and guidance to proceed forward the execution</td>
 	  <td> Colden Hall 2280 ,  Maryville,Missouri</td> 
 </tr>
-
+</table>
 
 
 ### Names of The Project Manager and Key Team Members
