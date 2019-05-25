@@ -169,6 +169,34 @@ https://github.com/Prajakt-Khawase/Project-Managment-Made-Easy/blob/master/docs/
 https://github.com/Prajakt-Khawase/Project-Managment-Made-Easy/blob/master/docs/stakeholderregistry.md
 
 
+## Link to Requirements Specifications:
+
+https://github.com/Prajakt-Khawase/Project-Managment-Made-Easy/blob/master/docs/Project%20Scope%20Managment/requirementspecifications.md
+
+## Link to Scope Statement:
+
+https://github.com/Prajakt-Khawase/Project-Managment-Made-Easy/blob/master/docs/Project%20Scope%20Managment/scopestatement.md
+
+## Link to Work Breakdown structure (WBS):
+
+
+
+## Link to Gantt chart:
+
+https://github.com/Prajakt-Khawase/Project-Managment-Made-Easy/blob/master/docs/Project%20Schedule%20Managment/projectmanagmentmadeeasy!.pod
+
+
+<!-- ## Link to Stakeholder Registry:
+
+
+
+<!-- ## Link to Stakeholder Registry:
+
+## Link to Stakeholder Registry:
+
+## Link to Stakeholder Registry: -->
+
+
 ## Published Site:
 
 
