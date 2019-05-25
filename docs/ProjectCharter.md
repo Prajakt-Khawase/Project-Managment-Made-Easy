@@ -76,3 +76,88 @@ We are developing this application for students by students. All the hardware fo
 
 </table>
 <br>
+
+### Stories by Role
+
+#### 1. Prajakt: Project Manager
+
+* Look after maintaining client expectations
+* Work towards maintaining the moral and motivation of the team up.
+* Conduct and lead the meetings Assign tasks to individuals and track project progress.
+* Update Clients regarding the project status.
+
+#### 2. Prajakt: Team Leader and Content Developer
+
+* Decide the technologies use and layout of the application.
+* Help the team members in technical issues while developing application.
+* Collect and organize and maintain the required content to meet the client requirement.
+* Take summery of work done by each team member on daily basis.
+
+
+
+#### 3. Rahul: Developer
+
+* Give essential inputs and feedbacks in team meetings towards development stratergy planning.
+* Create a web application front end by using best design patterns.
+  Use technologies like CSS to make the view more luckrative.
+* Ensure design consistency with the client’s development standards and guidelines.
+* Maintain, test the web application and participate in the meeting with client.
+
+
+<h2>Stake Holder Registry</h2><br>
+<table style="width:100%;border: 1px solid black;">
+  <tr>
+    <th>Name of the StakeHolder</th>
+    <th>Role in the project</th> 
+<th>Department</th>
+	<th>Type of StakeHolder</th>
+	<th>Expectations</th>
+	<th>Contact Info</th>
+  </tr>
+  <tr>
+    <td>Dr.Denise Case</td>
+    <td>Mentor</td> 
+    <td>
+	Applied Computer Science</td>
+	 <td>External</td> 
+	 <td>Key Stakeholder. Provides input and guidance to proceed forward</td>
+	  <td>Maryville,Missouri</td> 
+  </tr>
+  <tr>
+  <td>Prajakt Uttamrao Khawase</td>
+    <td>Developer</td> 
+    <td>
+	Applied Computer Science</td>	 
+	 <td>Internal</td> 
+	 <td>Web Developer</td>
+	  <td>Khawse.prajakt@gmail.com</td> 
+  </tr>
+  <tr>
+    <td>Prajakt Khawase</td>
+    <td>Project Manager</td> 
+    <td>
+    Applied Computer Science</td>
+	 <td>Internal</td> 
+	 <td>Manage the project. Assign tasks. Do code review and scrum meetings</td>
+	  <td>khawse.prajakt@gmail.com</td> 
+  </tr>
+  <tr>
+    <td>Rahul Mallampati</td>
+    <td>Team Member</td> 
+    <td>
+	Applied Computer Science</td>
+	 <td>Internal</td> 
+	 <td>Develop,test and validate code</td>
+	  <td>rahulmallampati825@gmail.com</td> 
+  </tr>
+<tr>
+    <td>Rahul Mallampati</td>
+    <td>UI developer</td> 
+    <td>
+	Applied Computer Science</td>
+	 <td>Internal</td> 
+	 <td>Develop,test and validate code</td>
+	  <td>rahulmallampati825@gmail.com</td> 
+  </tr>
+</table>
+<br>
