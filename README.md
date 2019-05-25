@@ -156,7 +156,6 @@ We are developing this application for students by students. All the hardware fo
 
 ## Link for project charter
 
-
 https://github.com/Prajakt-Khawase/Project-Managment-Made-Easy/blob/master/docs/Project%20Integration%20Managment/ProjectCharter.md
 
 ## Published Site:
