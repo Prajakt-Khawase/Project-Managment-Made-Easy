@@ -16,3 +16,4 @@
 #### Referance :-> 
 1. http://templatelab.com/project-scope/
 2. https://learn.g2.com/project-scope-statement
+3. PowerPoint Slide No. 14 Schwalbe, Kathy (2016). Information Technology Project Management 8e,
