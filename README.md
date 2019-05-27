@@ -185,6 +185,9 @@ We are developing this application for students by students. All the hardware fo
 
 [Gantt chart](https://github.com/Prajakt-Khawase/Project-Managment-Made-Easy/blob/master/docs/Project%20Schedule%20Managment/projectmanagmentmadeeasy!.pod)
 
+## Link to Cost Management Plan:
+
+[Project Cost Management Plan](https://github.com/Prajakt-Khawase/Project-Managment-Made-Easy/blob/master/docs/Project%20Cost%20Managment/projectcostmanagment.md)
 
 <!-- ## Link to Stakeholder Registry:
 
