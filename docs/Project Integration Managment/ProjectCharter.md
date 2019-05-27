@@ -24,7 +24,7 @@ To develop a web application to help students to understand the critical concept
 <hr>
 
 ### Budget Information :
-We are developing this application for students by students. All the hardware for this appliacation has been provided by the university thus the cost of application is zero.
+The Budget of this application is $10000. Which includes Hardware cost $500 , Project Management cost $2000 , Software licensing and development cost $3500 , Training and Support cost $ 2000.
 
 <hr>
 
