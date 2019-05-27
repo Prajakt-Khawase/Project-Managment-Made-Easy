@@ -12,5 +12,7 @@
 
 <hr>
 
-# Detailed Cost Estimation and Budget:
+# Detailed Cost Estimate and Budget:
+
+[Cost Estimate](https://docs.google.com/spreadsheets/d/1aVNn5u_LkH2UrRhSUzx-rzru7GL92vYQD7FZm1EIMR0/edit#gid=0)
 
