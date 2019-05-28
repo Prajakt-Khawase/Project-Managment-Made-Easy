@@ -121,7 +121,7 @@ The Budget of this application is $10000. Which includes Hardware cost $500 , Pr
 	Applied Computer Science</td>
 	 <td>External</td> 
 	 <td>Key Stakeholder. Provides input and guidance to proceed forward</td>
-	  <td>Colden Hall 2280 NWMSU Maryville,Missouri</td> 
+	  <td>Colden Hall 2280 NWMSU, Maryville,Missouri</td> 
   </tr>
   <tr>
   <td>Prajakt Uttamrao Khawase</td>
