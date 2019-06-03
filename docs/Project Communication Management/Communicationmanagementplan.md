@@ -1,2 +1,5 @@
 # Project Communication Management Plan
 
+### Introduction to Communicaion Management Plan
+
+The Communication Management Plan document guides project communications. It defines the project’s structure and methods of information collection, screening, formatting and distribution and outline understanding among project teams regarding the actions and process necessary to facilitate the critical links among people, ideas, and information that are necessary for project success.  The means of communication required for the employees are emails, phone calls, skype calls which helps all the team members to keep in touch with the specific updates, weekly meetings during the completion of the project. The contact details of all the stakeholders will be describe in stakeholders communciations analysis table.
