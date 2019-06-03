@@ -12,7 +12,7 @@ The information related to the project can be collected through interviewing the
 
 ### Project information Distribution structure 
 
-
+Project Manager is the key person who distribute the project information. If there are any changes to the project plan  the project manager is responsible for communicating those changes. The change will also be discussed with project team and client by conducting formal meetings. Daily progress reports and pending task details are sent to the team lead, project manager and client through emails.
 
 
 ### 8. Stakeholder communications analysis
