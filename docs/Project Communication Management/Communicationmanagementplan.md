@@ -14,5 +14,5 @@ Program Manager	|Project status report |Email |khawse.prajakt@gmail.com |Every w
 Team Lead |Project status report |Email |khawse.prajakt@gmail.com |Every week
 Developer |Project documents |Email |khawse.prajakt@gmail.com |Every week
 Developer |Project documents |Email |rahulmallampati825@gmail.com| Every week 
-Test Engineer |Test reports |Reports |rahulmallampati825@gmail.com |End of the each task
+Test Engineer |Test reports |Reports |rahulmallampati825@gmail.com |End of the each task and unit testing
 Sponsor |Budget analysis |Report |khawse.prajakt@gmail.com |One month before the project starts
