@@ -20,6 +20,10 @@ Project Manager is the key person who distribute the project information. If the
 Organizations should follow some standard templates for project information distribution. The template should discribe the important aspect of the project. Which information should be given to whom should be decided based on the level of individuals in an organization.
 
 
+### Production schedule and resources for producing key project information
+Production schedule helps all the stakeholders associated with the project to understand the progress of the project. These reports helps the stakeholders the status of the project and helps managers to track the activities. Standard templates should be used for both status and progress reports which are available in the company’s online file sharing system.
+
+
 
 
 ### 8. Stakeholder communications analysis
