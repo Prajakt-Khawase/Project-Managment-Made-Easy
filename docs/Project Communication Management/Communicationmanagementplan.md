@@ -23,7 +23,9 @@ Organizations should follow some standard templates for project information dist
 ### Production schedule and resources for producing key project information
 Production schedule helps all the stakeholders associated with the project to understand the progress of the project. These reports helps the stakeholders the status of the project and helps managers to track the activities. Standard templates should be used for both status and progress reports which are available in the company’s online file sharing system.
 
+### Frequency of communications
 
+It defines how often the stakeholders , internal project team communicate with each other. Scrum meetings are held daily basis and project status meetings are conducted on weekly basis with all the stakeholders.
 
 
 ### 8. Stakeholder communications analysis
