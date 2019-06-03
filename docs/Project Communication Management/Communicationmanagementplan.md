@@ -28,7 +28,11 @@ Production schedule helps all the stakeholders associated with the project to un
 It defines how often the stakeholders , internal project team communicate with each other. Scrum meetings are held daily basis and project status meetings are conducted on weekly basis with all the stakeholders.
 
 
-### 8. Stakeholder communications analysis
+### Method for updating the communications management plan
+Communications management plan can be updated using collaborative tools like Google tools,  SharePoint etc.
+
+
+### Stakeholder communications analysis
  
 Stakeholders|Document Name|Document Format|Contact Person|Due Date|
 ---|---|--|--|--|
