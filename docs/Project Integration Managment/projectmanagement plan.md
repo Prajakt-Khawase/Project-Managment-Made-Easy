@@ -57,5 +57,44 @@ This is a web application to help students to understand the critical concepts o
 1. Prajakt Uttamrao Khawase<br>
 2. Rahul Mallampati<br>
 
+###### The Link for Cost Management Plan.
+[Cost Estimate](https://docs.google.com/spreadsheets/d/1aVNn5u_LkH2UrRhSUzx-rzru7GL92vYQD7FZm1EIMR0/edit#gid=0)
 
 
+###### The Link for Quality Management Plan
+[Quality Management Plan](https://github.com/Prajakt-Khawase/Project-Managment-Made-Easy/blob/master/docs/Project%20Quality%20Management/Quality%20Management%20Plan.md)
+
+###### The Link for Metric used for quality management
+
+[Metric used for quality management](https://github.com/Prajakt-Khawase/Project-Managment-Made-Easy/blob/master/docs/Project%20Quality%20Management/qualitymeasurematric.md)
+
+
+###### The Link for Project Resource Management plan
+
+[Project Resource Management plan](https://github.com/Prajakt-Khawase/Project-Managment-Made-Easy/blob/master/docs/Project%20Resource%20Management/Resources%20management%20plan.md)
+
+
+###### The Link for Project organizational charts
+
+[Project organizational charts](https://github.com/Prajakt-Khawase/Project-Managment-Made-Easy/blob/master/docs/Project%20Resource%20Management/Project%20organizational%20charts.md)
+
+###### The Link for Project Communications Management Plan
+
+[Communication management plan](https://github.com/Prajakt-Khawase/Project-Managment-Made-Easy/blob/master/docs/Project%20Communication%20Management/Communicationmanagementplan.md)
+
+
+###### The Link for Stakeholder communication analysis
+[Stakeholder communication analysis](https://github.com/Prajakt-Khawase/Project-Managment-Made-Easy/blob/master/docs/Project%20Communication%20Management/Stakeholder%20communication%20analysis.md) 
+
+###### The Link for Project Risk Management
+
+[Risk management plan](https://github.com/Prajakt-Khawase/Project-Managment-Made-Easy/blob/master/docs/Project%20Risk%20Management/Risk-Management-Plan.md)
+
+###### The Link for Risk register
+
+[Risk register](https://github.com/Prajakt-Khawase/Project-Managment-Made-Easy/blob/master/docs/Project%20Risk%20Management/Risk%20register.md)
+
+
+###### The Link for Risk mitigation strategies
+
+[Risk mitigation strategies](https://github.com/Prajakt-Khawase/Project-Managment-Made-Easy/blob/master/docs/Project%20Risk%20Management/Riskmitigationstrategies.md) 
