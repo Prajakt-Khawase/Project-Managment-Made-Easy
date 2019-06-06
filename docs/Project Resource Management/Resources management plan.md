@@ -4,18 +4,20 @@ A resource plan describes how people and physical resources will be estimated, a
 People are developed and managed whereas materials are controlled after they are estimated and acquired. The purpose of the human resources management plan is to achieve project success by ensuring the appropriate human resources are acquired with the necessary skills, resources are trained if any gaps in skills are identified, team building strategies are clearly defines, and team activities are effectively managed.
 
 ### Inputs for developing Resource Management Plan
-1)Project Charter
 
-2)Project Management Plan
+* Project Charter
 
-3)Stake Holder Register
+* Project Management Plan
 
-4)Time Management plan
+* Stake Holder Register
 
-# Outputs
-1)Resource Management Plan
+* Time Management plan
 
-2)Project Document Updates
+### Outputs
+
+1. Resource Management Plan
+
+2. Project Document Updates
 
 # Project Resource Management Processes
 Processes include Planning human resource management, Acquiring & Developing the Project Team and Managing the Project team.
@@ -54,6 +56,7 @@ Building individual and group skills to enhance project performance.
 Tracking team member performance, motivating team members, providing timely feedback, resolving issues and conflicts, and coordinating changes to help enhance project performance.
 
 ## Responsibility Assignment Matrix:
+
 <table>
   <tr>
     <th>ID</th>
@@ -64,37 +67,37 @@ Tracking team member performance, motivating team members, providing timely feed
   <tr>
     <td>1</td>
     <td>Initiation</td>
-    <td></td>
+    <td>RP</td>
     <td></td>
   </tr>
   <tr>
     <td>2</td>
     <td>Planning</td>
-    <td></td>
+    <td>RP</td>
     <td></td>
   </tr>
   <tr>
     <td>3</td>
     <td>Execution</td>
-    <td></td>
-    <td></td>
+    <td>RP</td>
+    <td>P</td>
   </tr>
   <tr>
     <td>4</td>
     <td>Testing</td>
     <td></td>
-    <td></td>
+    <td>RP</td>
   </tr>
   <tr>
     <td>5</td>
     <td>Monitoring &amp; Controlling</td>
-    <td></td>
-    <td></td>
+    <td>RP</td>
+    <td>RP</td>
   </tr>
   <tr>
     <td>6</td>
     <td>Controlling</td>
-    <td></td>
+    <td>R</td>
     <td></td>
   </tr>
 </table>
