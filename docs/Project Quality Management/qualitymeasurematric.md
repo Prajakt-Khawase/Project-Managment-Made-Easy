@@ -37,3 +37,8 @@ Defect density per requirement helps uncover which requirement are more risky th
     <td>2</td>
   </tr>
 </table>
+
+### Referances 
+
+
+[Referance](https://www.qasymphony.com/blog/64-test-metrics/)
