@@ -11,7 +11,7 @@
     <td>Dr,Case<br>(Sponsor)</td>
     <td>High/High</td>
     <td>Leading</td>
-    <td></td>
+    <td>Dr. Case is a keystakeholder. She likes to get work on time hence the project team should deliver the work at time.</td>
   </tr>
   <tr>
     <td>Prajakt Uttamrao Khawase<br><br>(Project Manager)</td>
