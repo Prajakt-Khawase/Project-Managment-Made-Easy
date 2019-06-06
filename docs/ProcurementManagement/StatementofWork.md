@@ -5,3 +5,25 @@ As we are developing a static web-site which helps the students at NWMSU to lear
 ### II.	Location of Work:
 
 As we are students as of now the location of the work is B.D. Owens Library - Northwest Missouri State University. If our project gets approved we would look forward to take office with more number of resources.
+
+### III.	Period of Performance:
+The project commences from May 13, 2019 expected to be finished by August 6th, 2019. The standard working hours for the employees are 8 hours/day. 
+
+<table class="tg">
+  <tr>
+    <th class="tg-s6z2"><br>&nbsp;&nbsp;Deliverable<br>&nbsp;&nbsp;</th>
+    <th class="tg-s6z2"><br>&nbsp;&nbsp;Description<br>&nbsp;&nbsp;</th>
+    <th class="tg-s6z2"><br>&nbsp;&nbsp;Due date<br>&nbsp;&nbsp;</th>
+  </tr>
+  <tr>
+    <td class="tg-baqh"><br>Project charter<br>&nbsp;&nbsp;</td>
+    <td class="tg-0lax"><br>  It has project Discription , Roles and Responsibilities etc. <br>  </td>
+    <td class="tg-baqh"><br>&nbsp;&nbsp;7/9/2019<br>&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td class="tg-s6z2"><br>Scope statement<br>&nbsp;&nbsp;</td>
+    <td class="tg-s268"><br>  It has project Discription , Roles and Responsibilities etc.<br>  </td>
+    <td class="tg-s6z2"><br>&nbsp;&nbsp;5/21/19
+<br>&nbsp;&nbsp;</td>
+  </tr>
+  
