@@ -46,8 +46,10 @@ The project commences from May 13, 2019 expected to be finished by August 6th, 2
   </tr>
 
 <tr>
-    <td class="tg-baqh"><br>Final Upgradation<br>&nbsp;&nbsp;</td>
-    <td class="tg-baqh"><br>  This is the final deliverable of the project <br>  </td>
-    <td class="tg-baqh"><br>&nbsp;&nbsp;08/9/2019<br>&nbsp;&nbsp;</td>
+    <td class="tg-baqh"><br>Project Acceptance and hand over
+<br>&nbsp;&nbsp;</td>
+    <td class="tg-baqh"><br>  Closing of the project <br>  </td>
+    <td class="tg-baqh"><br>&nbsp;&nbsp;7/3/19
+<br>&nbsp;&nbsp;</td>
   </tr>
 </table>
