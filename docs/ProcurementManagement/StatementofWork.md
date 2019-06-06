@@ -31,3 +31,9 @@ The project commences from May 13, 2019 expected to be finished by August 6th, 2
     <td class="tg-s6z2"><br>  It has the cost estimates for the project, cost estimation, budget.<br>  </td>
     <td class="tg-s6z2"><br>&nbsp;&nbsp;5/28/2019<br>&nbsp;&nbsp;</td>
   </tr>
+
+  <tr>
+    <td class="tg-s6z2"><br>Stakeholder register<br>&nbsp;&nbsp;</td>
+    <td class="tg-s6z2"><br>  It contains names, position, project role, and contact information of the employee<br>  </td>
+    <td class="tg-s6z2"><br>&nbsp;&nbsp;5/22/2019<br>&nbsp;&nbsp;</td>
+  </tr>
