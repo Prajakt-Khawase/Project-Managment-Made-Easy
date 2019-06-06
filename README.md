@@ -2,7 +2,7 @@
 
 
 ## Project Description:
-This is a web application to help students to understand the critical concepts of Project Managment in simple and effective way who are taking 44-618 Project Management in Business and Technology at Northwest Missouri State University . This application covers critical areas of Project Managment such as significance of triple constraints in the project , mapping knowledge areas vs the Process Groups and techniques to remember the mappings between them , Three Sphere Model of System Managment etc. This is a client side application which uses HTML,CSS to develop web pages.
+This is a web application to help students who are taking 44-618 Project Management in Business and Technology at Northwest Missouri State University to understand the mapping of Knowledge areas with the process groups which will give a table with 49 processes . This application also covers critical areas of Project Managment such as significance of triple constraints in the project , mapping knowledge areas vs the Process Groups and techniques to remember the mappings between them , Three Sphere Model of System Management. This is a client side application which uses HTML,CSS to develop web pages.
 <hr>
 
 ### Main Project Success Criteria: 
@@ -51,13 +51,13 @@ We have divided all the task amongst all the team members. To co-ordinate amongs
 
 
 ### Project Objectives:
-To develop a web application to help students to understand the critical concepts of Project Managment in simple and effective way.
+This is a web application to help students who are taking 44-618 Project Management in Business and Technology at Northwest Missouri State University to understand the mapping of Knowledge areas with the process groups which will give a table with 49 processes . This application also covers critical areas of Project Managment such as significance of triple constraints in the project , mapping knowledge areas vs the Process Groups and techniques to remember the mappings between them , Three Sphere Model of System Management. This is a client side application which uses HTML,CSS to develop web pages.
 
 <hr>
 
 ### Budget Information :
 
-The Budget of this application is $13,500.00.
+The Budget of this application is $11,682.00.
 
 <hr>
 
