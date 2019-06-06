@@ -40,7 +40,14 @@ The project commences from May 13, 2019 expected to be finished by August 6th, 2
 
  <tr>
     <td class="tg-s6z2"><br>Host Site<br>&nbsp;&nbsp;</td>
-    <td class="tg-s6z2"><br>  This is the final deliverable of the project<br>  </td>
+    <td class="tg-s6z2"><br>  Locally developed web-site is hosted on cloud<br>  </td>
     <td class="tg-s6z2"><br>&nbsp;&nbsp;6/17/19
 <br>&nbsp;&nbsp;</td>
   </tr>
+
+<tr>
+    <td class="tg-baqh"><br>Final Upgradation<br>&nbsp;&nbsp;</td>
+    <td class="tg-baqh"><br>  This is the final deliverable of the project <br>  </td>
+    <td class="tg-baqh"><br>&nbsp;&nbsp;08/9/2019<br>&nbsp;&nbsp;</td>
+  </tr>
+</table>
