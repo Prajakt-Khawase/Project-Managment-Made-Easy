@@ -18,12 +18,10 @@ The project commences from May 13, 2019 expected to be finished by August 6th, 2
   <tr>
     <td class="tg-baqh"><br>Project charter<br>&nbsp;&nbsp;</td>
     <td class="tg-0lax"><br>  It has project Discription , Roles and Responsibilities etc. <br>  </td>
-    <td class="tg-baqh"><br>&nbsp;&nbsp;7/9/2019<br>&nbsp;&nbsp;</td>
+    <td class="tg-baqh"><br>&nbsp;&nbsp;5/21/19<br>&nbsp;&nbsp;</td>
   </tr>
   <tr>
     <td class="tg-s6z2"><br>Scope statement<br>&nbsp;&nbsp;</td>
-    <td class="tg-s268"><br>  It has project Discription , Roles and Responsibilities etc.<br>  </td>
-    <td class="tg-s6z2"><br>&nbsp;&nbsp;5/21/19
-<br>&nbsp;&nbsp;</td>
+    <td class="tg-s268"><br>  It has Product Features and Requirements , Project Deliverables , Project Future Scope:<br>  </td>
+    <td class="tg-s6z2"><br>&nbsp;&nbsp;5/24/2019<br>&nbsp;&nbsp;</td>
   </tr>
-  
