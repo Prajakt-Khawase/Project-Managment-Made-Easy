@@ -29,3 +29,73 @@ TSoftware testing metrics are a way to measure and monitor test activities. If o
 4. Failed Test Cases Percentage = (Number of Failed Tests/Total number of tests executed) * 100
 5. Fixed Defects Percentage = (Defects Fixed/Total Defects Reported) * 100
 6. Bug find rate = Total number of defects/Total number of test hours
+
+### Test Cases by Requirement
+Most common way to see what features are being tested, and see how many tests we have aligned with a user story or requirement.
+
+<table>
+  <tr>
+    <th>REQ</th>
+    <th>TC Name</th>
+    <th>Test Result</th>
+  </tr>
+  <tr>
+    <td>REQ 1</td>
+    <td>TC Name1</td>
+    <td>Pass</td>
+  </tr>
+  <tr>
+    <td>REQ 2</td>
+    <td>TC Name2</td>
+    <td>Failed</td>
+  </tr>
+  <tr>
+    <td>REQ 3</td>
+    <td>TC Name3</td>
+    <td>Incomplete</td>
+  </tr>
+</table>
+
+### Defects per Requirement (Requirement Defect Density)
+Defect density per requirement helps uncover which requirement are more risky than others. For example, the test cases might be fine, but the requirement might be what’s causing all the problems.
+
+<table>
+  <tr>
+    <th>Req name</th>
+    <th>Total # of Defects</th>
+  </tr>
+  <tr>
+    <td>Req A</td>
+    <td>25</td>
+  </tr>
+  <tr>
+    <td>Req B</td>
+    <td>2</td>
+  </tr>
+</table>
+
+### Requirements without Test Coverage
+
+It’s important to know if you are ready to push a requirement into production with proper test coverage.
+This shows which requirements do NOT have test coverage and at what stage the requirement is in.  For example, a requirement that is in “Done” status is more risky than a requirement in “To Do” status.
+
+<table>
+  <tr>
+    <th>REQ ID</th>
+    <th>REQ NAME</th>
+    <th>REQ STATUS</th>
+  </tr>
+  <tr>
+    <td>REQ001</td>
+    <td>REQ A</td>
+    <td>To Do</td>
+  </tr>
+  <tr>
+    <td>REQ002</td>
+    <td>REQ B</td>
+    <td>Done</td>
+  </tr>
+</table>
+
+
+
