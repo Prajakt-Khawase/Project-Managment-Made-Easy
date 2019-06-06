@@ -53,3 +53,15 @@ The project commences from May 13, 2019 expected to be finished by August 6th, 2
 <br>&nbsp;&nbsp;</td>
   </tr>
 </table>
+
+
+### V.	Applicable Standards:
+
+We are using the most common front end technologies like HTML , CSS , JavaScript to develop this application.
+
+### VI.	Acceptance Criteria: 
+
+If all the deliverables are on time and the cost estimation meets the client's expectation. Moreover If client like our proposal then it should get approved.
+
+### VII.	Special Requirements:
+Quality should meet client's requirement . The integration and launch should be done only after complete testing.
