@@ -57,6 +57,9 @@ This is a web application to help students to understand the critical concepts o
 1. Prajakt Uttamrao Khawase<br>
 2. Rahul Mallampati<br>
 
+###### The Link for Scope Management Plan.
+[Scope Management](https://github.com/Prajakt-Khawase/Project-Managment-Made-Easy/blob/master/docs/Project%20Scope%20Managment/scopestatement.md)
+
 ###### The Link for Cost Management Plan.
 [Cost Estimate](https://docs.google.com/spreadsheets/d/1aVNn5u_LkH2UrRhSUzx-rzru7GL92vYQD7FZm1EIMR0/edit#gid=0)
 
