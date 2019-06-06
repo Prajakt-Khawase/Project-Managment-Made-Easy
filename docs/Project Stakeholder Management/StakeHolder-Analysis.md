@@ -17,12 +17,12 @@
     <td>Prajakt Uttamrao Khawase<br><br>(Project Manager)</td>
     <td>High/High</td>
     <td>Leading</td>
-    <td></td>
+    <td>Prajakt is an organize man. He believes in following best design patterns while deloping.</td>
   </tr>
   <tr>
     <td>Rahul Mallampati</td>
     <td>Medium/high</td>
     <td>Supportive</td>
-    <td></td>
+    <td>Rahul is proffessional and logical person.</td>
   </tr>
 </table>
