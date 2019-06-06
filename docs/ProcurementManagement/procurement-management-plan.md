@@ -7,7 +7,7 @@ Procurement Management Plan will be prepare after the successful planning of the
 1. Control Procurements
 1. Close Procurements
 
-#### The output of the following processes are.
+#### The output of the abouve processes are the following documents.
 
 * A Statement of work (SOW) is a description of the what work should be done for the procurement.
 * Request for Proposals (RFP): Used to solicit proposals from prospective sellers.
