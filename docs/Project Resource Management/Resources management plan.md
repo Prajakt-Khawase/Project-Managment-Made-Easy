@@ -1,9 +1,9 @@
 # Resource Management Plan
 
 A resource plan describes how people and physical resources will be estimated, acquired, developed, managed and controlled.
-People are developed and managed whereas materials are controlled after they are estimated and acquired.
+People are developed and managed whereas materials are controlled after they are estimated and acquired. The purpose of the human resources management plan is to achieve project success by ensuring the appropriate human resources are acquired with the necessary skills, resources are trained if any gaps in skills are identified, team building strategies are clearly defines, and team activities are effectively managed.
 
-# Inputs
+### Inputs for developing Resource Management Plan
 1)Project Charter
 
 2)Project Management Plan
