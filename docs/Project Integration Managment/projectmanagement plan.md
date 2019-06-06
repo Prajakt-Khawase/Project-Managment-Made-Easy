@@ -76,6 +76,14 @@ This is a web application to help students to understand the critical concepts o
 
 [Project Resource Management plan](https://github.com/Prajakt-Khawase/Project-Managment-Made-Easy/blob/master/docs/Project%20Resource%20Management/Resources%20management%20plan.md)
 
+###### The Link for Procurment management
+
+[Procurment management](https://github.com/Prajakt-Khawase/Project-Managment-Made-Easy/blob/master/docs/ProcurementManagement/procurement-management-plan.md) 
+
+
+###### The Link for Stakeholder management
+
+[Stakeholder management](https://github.com/Prajakt-Khawase/Project-Managment-Made-Easy/tree/master/docs/Project%20Stakeholder%20Management) 
 
 ###### The Link for Project organizational charts
 
@@ -101,3 +109,5 @@ This is a web application to help students to understand the critical concepts o
 ###### The Link for Risk mitigation strategies
 
 [Risk mitigation strategies](https://github.com/Prajakt-Khawase/Project-Managment-Made-Easy/blob/master/docs/Project%20Risk%20Management/Riskmitigationstrategies.md) 
+
+
