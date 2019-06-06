@@ -83,7 +83,7 @@ This is a web application to help students to understand the critical concepts o
 
 ###### The Link for Stakeholder management
 
-[Stakeholder management](https://github.com/Prajakt-Khawase/Project-Managment-Made-Easy/tree/master/docs/Project%20Stakeholder%20Management) 
+[Stakeholder management](https://github.com/Prajakt-Khawase/Project-Managment-Made-Easy/blob/master/docs/Project%20Stakeholder%20Management/Stakeholder%20management%20plan.md) 
 
 ###### The Link for Project organizational charts
 
