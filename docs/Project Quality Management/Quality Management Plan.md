@@ -58,7 +58,7 @@ Defect density per requirement helps uncover which requirement are more risky th
 <table>
   <tr>
     <th>Req name</th>
-    <th>Total # of Defects</th>
+    <th>Total Number of Defects</th>
   </tr>
   <tr>
     <td>Adding new Pages</td>
