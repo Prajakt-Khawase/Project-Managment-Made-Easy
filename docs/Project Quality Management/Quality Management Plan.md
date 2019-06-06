@@ -13,7 +13,7 @@ The purpose of project quality management is to ensure that the project will sat
 The main outputs of planning quality management are a quality management plan, a process improvement plan, quality metrics, quality checklists, and project documents updates.
 
 2. Performing quality assurance
-The main outputs of this process are change requests, project management plan updates, project documents updates, and organizational process asset updates.
+Quality assurance ensures that project processes are used effectively to produce quality project deliverables. It involves following and meeting standards, continuously improving project work, and correcting project defects. The main outputs of this process are change requests, project management plan updates, project documents updates, and organizational process asset updates.
 
 3. Controlling quality involves
 The main outputs of quality control include quality control measurements, validated changes, validated deliverables, work performance information, change requests, project management plan updates, project documents updates, and organizational process asset updates.
