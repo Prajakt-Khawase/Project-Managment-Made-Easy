@@ -9,7 +9,7 @@ StakeHolder Management mainly consits of below four steps:-
 1. Manage Stakeholder Management
 1. Control Stakeholder Management
 
-### Stake Holder Registry
+ Stake Holder Registry has information about the keystakeholders.
 
 
 <h2>Stake Holder Registry</h2><br>
